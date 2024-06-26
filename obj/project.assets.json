@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\mycode\\dotnet\\webapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\code\\mycode\\dotnet\\webapi\\streamdata\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\code\\mycode\\dotnet\\webapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\code\\mycode\\dotnet\\webapi\\streamdata\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\ghass\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\mycode\\dotnet\\webapi\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\code\\mycode\\dotnet\\webapi\\streamdata\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ghass\\AppData\\Roaming\\NuGet\\NuGet.Config",
