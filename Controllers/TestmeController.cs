@@ -12,7 +12,7 @@ public class TestmeController: ControllerBase
     {
         foreach (var data in Enumerable.Range(1, 10))
         {
-            await Task.Delay(TimeSpan.FromSeconds(3));
+            await Task.Delay(TimeSpan.FromSeconds(1));
             yield return data.ToString();
         }
         
