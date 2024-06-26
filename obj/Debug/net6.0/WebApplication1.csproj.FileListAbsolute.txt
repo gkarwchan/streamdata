@@ -53,3 +53,4 @@ C:\code\mycode\dotnet\webapi\streamdata\obj\Debug\net6.0\refint\WebApplication1.
 C:\code\mycode\dotnet\webapi\streamdata\obj\Debug\net6.0\WebApplication1.pdb
 C:\code\mycode\dotnet\webapi\streamdata\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\code\mycode\dotnet\webapi\streamdata\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\code\mycode\dotnet\webapi\streamdata\bin\Debug\net6.0\web.config
